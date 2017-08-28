@@ -1,0 +1,16 @@
+# Site settings
+title: MarketingBH - Helping businesses get the most out of the internet
+email: davis@marketingbh.com
+description: Helping businesses get the most out of the internet # this means to ignore newlines until "baseurl:"
+
+baseurl: "/Read-Only-Jekyll-Theme" # the subpath of your site, e.g. /blog/
+url: "http://marketingbh.com" # the base hostname & protocol for your site
+twitter_username: honest2davis
+github_username:  marketingbh
+
+# Build settings
+markdown: kramdown
+
+#Things I added
+
+permalink: :categories/:title/
