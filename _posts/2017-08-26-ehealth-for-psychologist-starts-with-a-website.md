@@ -59,12 +59,11 @@ Also, an equally important reason to consider:
 ### What can you do right now to improve your web presence?
 Even though there are a million digitally things, here are some things you can do right away:
 
-* Become more **discoverable**. This means connecting online to your social platforms (LinkedIn, Facebook, Twitter, Youtube) and sign up. The next step is to ensure that you have the right *contact details* across these accounts so that people who find you can at least know more about you.
+* Make your website available for _mobile phones_. People are more likely to learn more about you on their phones and tablets. Double check if your website works well across all devices to make it easier for people to discover you.
+
+* Become more **discoverable**. This means connecting online to your social platforms (LinkedIn, Facebook, Twitter, Youtube) together. The next step is to ensure that you have the right *contact details* across these accounts so that people who find you can at least know more about you.
 
 * **Share** some of your thoughts online. You have a wealth of knowledge and experience that you can share with people. You have some small methodologies or frameworks that are simple and effective. Sharing this knowledge provides further credibility to what you already have provides a point of difference for new clients and reinforces the value that you provide existing clients.
-
-* Review your website and make it more _simple_. People are on computers, phones and tablets. Double check if your website works well across all devices to make it easier for your clients. 
-
 
 ### Where can we help?
 
