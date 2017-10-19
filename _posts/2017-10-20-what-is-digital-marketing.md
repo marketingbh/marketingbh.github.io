@@ -4,7 +4,7 @@ categories: Resources
 title: What is digital marketing and how can it help your business?
 ---
 
-<img src="{{ site.baseurl }}/images/digitalmarketing101/01.jpg">
+<img src="{{ site.baseurl }}/images/digitalmarketing101/01.jpeg">
 Digital marketing can easily be one of the more confusing business activities we've had access to. We've heard the success stories and then when we delve a little deeper into the offering, it seems quite overwhelming. With the knowledge and expertise spread out amongst the internet, it's difficult to see what digital marketing can do specifically for your organisation given the environment it exists in. 
 
 > ### Sometimes, digital marketing efforts start with the best of intentions, only to end up as isolated projects within your organisation.
@@ -23,7 +23,7 @@ Put simply, digital marketing is your traditional marketing done via digital pla
 
 The most empowering thing about digital marketing is that you've run a set of activities and run campaigns for a long time - just in a different way. Meaning that digital marketing is an extension of your existing understanding of your marketing efforts in your industry.
 
-<img src="{{ site.baseurl }}/images/digitalmarketing101/02.jpg">
+<img src="{{ site.baseurl }}/images/digitalmarketing101/02.jpeg">
 
 ## But what's the point if everything I'm doing now is working fine?
 
@@ -37,7 +37,7 @@ It's great we can see the value of digital marketing. However when you're googli
 
 So if digital marketing contributes to another sales channel - where are you supposed to start? **What should you do first?** To make it more confusing, if you attempt to google digital marketing - you end up in that information loop previously mentioned: statistics, case studies and testimonials.  This makes it a minefield to try and wade through. So we thought it'd be important to share these activities with you.
 
-<img src="{{ site.baseurl }}/images/digitalmarketing101/03.jpg">
+<img src="{{ site.baseurl }}/images/digitalmarketing101/03.jpeg">
 
 
 ## So what are some digital marketing activities?
@@ -73,6 +73,6 @@ Email addresses are still a valuable point of contact for customers and prospect
 #### Video Marketing
 Video marketing is an incredibly powerful tool that is omnichannel for your organisation. It's another form of content marketing specifically aimed at building visuals.
 
-<img src="{{ site.baseurl }}/images/digitalmarketing101/04.jpg">
+<img src="{{ site.baseurl }}/images/digitalmarketing101/04.jpeg">
 ## Our approach at MarketingBH
 Our approach at MarketingBH is more consultative starting with what we believe is the most important part of digital marketing - your goals. This helps us pave the way to understanding your customers (and your potential customers) in order to create more sales opportunities that contribute to the bottom line.  We also respect and are passionate about how we can use digital marketing as a tool to create measurable marketing and sales goals. This, in turn, helps us to articulate the return on your investment. We're more than happy to work with you to at least get you on your way, so feel free to [contact us](marketingbh.com/contact) and share with you where we can help.
