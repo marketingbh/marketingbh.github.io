@@ -74,5 +74,6 @@ Email addresses are still a valuable point of contact for customers and prospect
 Video marketing is an incredibly powerful tool that is omnichannel for your organisation. It's another form of content marketing specifically aimed at building visuals.
 
 <img src="{{ site.baseurl }}/images/digitalmarketing101/04.jpeg">
+
 ## Our approach at MarketingBH
 Our approach at MarketingBH is more consultative starting with what we believe is the most important part of digital marketing - your goals. This helps us pave the way to understanding your customers (and your potential customers) in order to create more sales opportunities that contribute to the bottom line.  We also respect and are passionate about how we can use digital marketing as a tool to create measurable marketing and sales goals. This, in turn, helps us to articulate the return on your investment. We're more than happy to work with you to at least get you on your way, so feel free to [contact us](marketingbh.com/contact) and share with you where we can help.
