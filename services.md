@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /services/
-title: services
+title: Services
 ---
 At Marketing BH, we're committed to helping our clients maximise their use of the internet and work with them as they embark on a digital journey. With a lot of our clients, our digital marketing is a part of the wider marketing activities they conduct and below are some of the services that we offer. For a complementary consultation, **[contact us](/contact)** for more information. To understand a bit more about what digital marketing is we've written a great [article](/resources/what-is-digital-marketing/) with an overview of digital marketing.
 
